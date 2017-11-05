@@ -1,4 +1,4 @@
-update=22.10.2017 20:36:13
+update=2.11.2017 21:10:57
 version=1
 last_client=kicad
 [pcbnew]
@@ -64,3 +64,4 @@ LibName32=valves
 LibName33=LibMod/Indrek/DcDcConverter
 LibName34=LibMod/YJ_arduino/arduino
 LibName35=LibMod/Indrek/nok5110
+LibName36=LibMod/Indrek/levelshifter_74hc4050d
