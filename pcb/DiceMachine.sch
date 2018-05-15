@@ -99,7 +99,7 @@ L Conn_01x02 J1
 U 1 1 59ECD94F
 P 2050 1200
 F 0 "J1" H 2050 1300 50  0000 C CNN
-F 1 "Conn_01x02" V 2150 1000 50  0000 C CNN
+F 1 "Conn_01x02" V 2150 1150 50  0000 C CNN
 F 2 "Pin_Headers:Pin_Header_Straight_1x02" H 2050 1200 50  0001 C CNN
 F 3 "" H 2050 1200 50  0001 C CNN
 	1    2050 1200
@@ -407,4 +407,10 @@ F 3 "" H 5000 1700 50  0001 C CNN
 	1    5000 1700
 	1    0    0    -1  
 $EndComp
+Text Notes 1150 1250 0    60   ~ 0
+Power input
+Text Notes 1800 1050 0    60   ~ 0
+Power switch
+Text Notes 7800 4650 0    60   ~ 0
+Button
 $EndSCHEMATC
