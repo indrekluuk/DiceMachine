@@ -227,7 +227,7 @@ void loop() {
     if (!isPreviousButtonStatusPressed) {
       initRandomSeed();
     }
-    roll();        
+    roll();
     updateStat();
     backLightOn();
     delay(50);
@@ -252,8 +252,6 @@ uint16_t die1Stat[6] = {0,0,0,0,0,0};
 uint16_t die2Stat[6] = {0,0,0,0,0,0};
 uint16_t diceSum[11] = {0,0,0,0,0,0,0,0,0,0,0};
 uint8_t mode = 0;
-
-
 
 void updateStat() {
   rollCount++;
